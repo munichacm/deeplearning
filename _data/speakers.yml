@@ -23,7 +23,7 @@
   company: "Exelixis Lab, HITS"
   title: "Graduate Student Researcher"
   bio: "David is a M.Sc. Student at TUM and a Graduate Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern on high-energy particle simulations at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
-  thumbnailUrl: david.png
+  thumbnailUrl: DavidDao.png
   rockstar: true
   ribbon: 
     - {abbr: "ACM", title: "ACM member", url: "https://developers.google.com/experts/"}
