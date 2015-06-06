@@ -1,60 +1,52 @@
+
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "David"
+  surname: "Dao"
+  title: "Group Leader"
+  thumbnailUrl: david.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
+    - {name: "twitter", link: "https://twitter.com/daviddao_"}
+    - {name: "github", link: "https://github.com/daviddao"}
+    - {name: "site", link: "http://daviddao.de/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Iris"
+  surname: "Shih"
+  title: "Public Relations and Advertisement"
+  thumbnailUrl: iris.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
+    - {name: "twitter", link: "https://twitter.com/iriscshih"}
+    - {name: "github", link: "https://github.com/iriscshih"}
+    - {name: "site", link: "http://iriscshih.com/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  name: "Habtom"
+  surname: "Kahsay Gidey"
+  title: "Event Manager"
+  thumbnailUrl: habtom.png
+  subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112571245243579528650"}
+- 
+  id: 3
+  name: "Sebastian"
+  surname: "Wilzbach"
+  title: "Room Manager"
+  thumbnailUrl: seb.png
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mrgreenify"}
+    - {name: "github", link: "https://github.com/greenify"}
+    - {name: "site", link: "http://sebi.wilzbach.me/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Daffiny"
+  surname: "Lin"
+  title: "Catering Manager"
+  thumbnailUrl: daffiny.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}

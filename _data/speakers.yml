@@ -1,67 +1,53 @@
 - 
+  id: 1
+  name: "Sebastian"
+  surname: "Ebert"
+  company: "NLP Chair, LMU"
+  title: "PhD Student"
+  bio: "Sebastian is a PhD Student at Hinrich Schütze's Lab at Ludwig Maximilian University Munich. His research is about Sentiment Analysis, Deep Learning and Neural Language Models."
+  thumbnailUrl: SebastianEbert.jpg
+  rockstar: true
+- 
+  id: 2
+  name: "Caner"
+  surname: "Hazırbaş"
+  company: "Computer Vision Chair, TUM"
+  title: "PhD Student"
+  bio: 'Caner received his Computer Engineering Bachelors Degree at Yildiz Technical University, Istanbul and Informatics Masters Degree at the Technical University, Munich (TU München). During his study, he focused on object recognition and detection in the fields of computer vision and machine learning. He is currently pursuing a Ph.D. at the Computer Vision Group, TU Munich under the supervision of Prof. Dr. Daniel Cremers. He is interested in deep learning, object detection/recognition, semantic scene understanding.'
+  thumbnailUrl: CanerHazirbas.jpg
+  rockstar: true
+- 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "David"
+  surname: "Dao"
+  company: "Exelixis Lab, HITS"
+  title: "Graduate Student Researcher"
+  bio: "David is a M.Sc. Student at TUM and a Graduate Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern on high-energy particle simulations at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
+  thumbnailUrl: david.png
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "ACM", title: "ACM member", url: "https://developers.google.com/experts/"}
+    - {abbr: "IEEE", title: "IEEE member", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
+    - {name: "twitter", link: "https://twitter.com/daviddao_"}
+    - {name: "github", link: "https://github.com/daviddao"}
+    - {name: "site", link: "http://daviddao.de/"}
 - 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  id: 4
+  name: "Udhayaraj"
+  surname: "Sivalingam"
+  company: "Siemens Healthcare"
+  title: "M.Sc. Thesis Student"
+  bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
+  thumbnailUrl: udhay.png
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Third"
+  surname: "Speaker"
+  company: "from awesome"
+  title: "genius"
+  bio: "Awesome guy"
+  thumbnailUrl: ThirdSpeaker.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
