@@ -16,7 +16,7 @@
   name: "Iris"
   surname: "Shih"
   title: "Public Relations and Advertisement"
-  thumbnailUrl: iris.png
+  thumbnailUrl: thumbnail.png
   team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
@@ -37,7 +37,7 @@
   name: "Sebastian"
   surname: "Wilzbach"
   title: "Room Manager"
-  thumbnailUrl: seb.png
+  thumbnailUrl: thumbnail.png
   subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mrgreenify"}
@@ -47,6 +47,6 @@
   id: 4
   name: "Daffiny"
   surname: "Lin"
+  thumbnailUrl: thumbnail.png
   title: "Catering Manager"
-  thumbnailUrl: daffiny.png
   subTeam: true

@@ -5,7 +5,7 @@
   company: "NLP Chair, LMU"
   title: "PhD Student"
   bio: "Sebastian is a PhD Student at Hinrich Schütze's Lab at Ludwig Maximilian University Munich. His research is about Sentiment Analysis, Deep Learning and Neural Language Models."
-  thumbnailUrl: SebastianEbert.jpg
+  thumbnailUrl: thumbnail.png
   rockstar: true
 - 
   id: 2
@@ -49,5 +49,5 @@
   company: "from awesome"
   title: "genius"
   bio: "Awesome guy"
-  thumbnailUrl: ThirdSpeaker.jpg
+  thumbnailUrl: thumbnail.png
   rockstar: true
