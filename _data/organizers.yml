@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "IEEE/ACM Munich Student Club", description: "IEEE and ACM Computer Science Student Club in Munich", link: "http://munichacm.de", imageUrl: "gdg-lviv.svg"}
+    - {name: "IEEE/ACM Munich Student Club", description: "IEEE and ACM Computer Science Student Club in Munich", link: "http://munichacm.de", imageUrl: "munichacm.png"}
 # - 
 #   group: "Co-organizers"
 #   elements: 
