@@ -33,8 +33,8 @@
   complexity: "Intermediate" 
 -
   id: 003
-  title: "Generating Game of Thrones: How a RNN learns to write like George R. R. Martin"
-  description: "George, enough is enough! We are already waiting too long for the your next book. Therefore we used your 'A Song of Ice and Fire' books to teach a LSTM how to write like George R. R. Martin. In this session, we will introduce our approach and share some interesting results. Careful: Spoiler Alert!"
+  title: "Student Project"
+  description: "TBA"
   subtype: presentation
   speakers: [3,4]
   language: en
