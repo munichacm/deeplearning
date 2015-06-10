@@ -22,26 +22,26 @@
   surname: "Dao"
   company: "Exelixis Lab, HITS"
   title: "Graduate Student Researcher"
-  bio: "David is a M.Sc. Student at TUM and a Graduate Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern on high-energy particle simulations at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
+  bio: "David is a M.Sc. Student at TUM and a Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
   thumbnailUrl: DavidDao.png
   rockstar: true
   ribbon: 
-    - {abbr: "ACM", title: "ACM member", url: "https://developers.google.com/experts/"}
-    - {abbr: "IEEE", title: "IEEE member", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "ACM", title: "ACM", url: "http://germany.acm.org/"}
+    - {abbr: "IEEE", title: "IEEE Computer Society", url: "http://www.computer.org/web/guest"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
     - {name: "twitter", link: "https://twitter.com/daviddao_"}
     - {name: "github", link: "https://github.com/daviddao"}
     - {name: "site", link: "http://daviddao.de/"}
-- 
-  id: 4
-  name: "Udhayaraj"
-  surname: "Sivalingam"
-  company: "Siemens Healthcare"
-  title: "M.Sc. Thesis Student"
-  bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
-  thumbnailUrl: udhay.png
-  rockstar: true
+# - 
+#   id: 4
+#   name: "Udhayaraj"
+#   surname: "Sivalingam"
+#   company: "Siemens Healthcare"
+#   title: "M.Sc. Thesis Student"
+#   bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
+#   thumbnailUrl: udhay.png
+#   rockstar: true
 - 
   id: 5
   name: "Third"
