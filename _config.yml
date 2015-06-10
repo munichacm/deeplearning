@@ -28,6 +28,7 @@ organizerLink: "http://munichacm.de"
 # Head
 metaKeywords: "event, TUM, munich, deep learning, machine learning, nlp, computer vision, developers"
 twitterAccount: "@CSclubMuc"
+addThisEvent: true
 #socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 #socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
