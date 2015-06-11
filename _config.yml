@@ -56,8 +56,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Deep Learning in <typeout> 2015"
-eventDate: "24th June, 2015"
-typeoutTextValues: '"Action", "NLP", "Computer Vision", "Medicine", "Industry"'
+eventDate: "24th June, 2015 <br><br>Seminarroom EG 09.022<br>Informatics Building, Boltzmannstraße 8"
+typeoutTextValues: '"Action ", "NLP", "Computer Vision", "Medicine", "Industry"'
 typeoutFallback: "Action"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -67,15 +67,15 @@ heroButtons:
 aboutTitle: "About Deep Learning in Action"
 aboutBlock:
  - {title: "Awesome topic", image: "conference.jpg", text: "Deep Learning in Action! Finally, everything you ever wanted to know about deep learning! Attend, ask questions and have fun." }
- - {title: "Awesome people", image: "workshop.jpg", text: "It's a meetup. Meet and talk to awesome people and get things started. Of course coffee and cookies are for free!" }
+ - {title: "Awesome people", image: "workshop.jpg", text: "It's a meetup. Meet and talk to awesome people and get things started. Of course beer and snacks are for free!" }
  - {title: "Awesome talks", image: "hackathon.jpg", text: "Talks are fun and kept on an introductory level. We get experts and students from academia and industry to talk about state-of-the-art machine learning." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "40", specialCharacter: "+", info: "attendees", detail: "from industry and academia"}
- - {count: "2", specialCharacter: "+", info: "tables", detail: "of snacks and beer"}
- - {count: "4", specialCharacter: "", info: "rockstar speakers", detail: "from NLP, computer vision and deep learning"}
+ - {count: "3", specialCharacter: "+", info: "tables", detail: "of snacks and beer"}
+ - {count: "2", specialCharacter: "", info: "rockstar speakers", detail: "from NLP, computer vision and deep learning"}
  #- {count: "1", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -83,7 +83,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

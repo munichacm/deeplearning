@@ -42,12 +42,12 @@
 #   bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
 #   thumbnailUrl: udhay.png
 #   rockstar: true
-- 
-  id: 5
-  name: "Third"
-  surname: "Speaker"
-  company: "from awesome"
-  title: "genius"
-  bio: "Awesome guy"
-  thumbnailUrl: thumbnail.png
-  rockstar: true
+# - 
+#   id: 5
+#   name: "Third"
+#   surname: "Speaker"
+#   company: "from awesome"
+#   title: "genius"
+#   bio: "Awesome guy"
+#   thumbnailUrl: thumbnail.png
+#   rockstar: true
