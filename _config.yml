@@ -89,7 +89,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Seminarraum EG 09.022"
+eventLocationName: "Seminarraum EG 09.022, Informatik Gebäude"
 eventLocationLink: "http://tum.de"
 eventStreetAddress: "Boltzmannstraße 8"
 eventAddressLocality: "Munich"
