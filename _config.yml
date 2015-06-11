@@ -56,7 +56,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Deep Learning in <typeout> 2015"
-eventDate: "24th June, 2015 <br><br>Seminarroom EG 09.022<br>Informatics Building, Boltzmannstraße 8"
+eventDate: "24th June, 2015"
 typeoutTextValues: '"Action ", "NLP", "Computer Vision", "Medicine", "Industry"'
 typeoutFallback: "Action"
 heroButtons:
