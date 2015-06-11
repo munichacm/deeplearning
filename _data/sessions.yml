@@ -26,7 +26,7 @@
 -
   id: 002
   title: "Deep Learning in Computer Vision"
-  description: "Deep Learning in Computer VisionClassification and detection are still major problems in computer vision and waiting to be addressed. Recent studies in deep learning show an outstanding performance in these tasks. Deep learning methods are representation learning methods which allow a machine to learn the representations of data with multiple levels of abstraction. In this talk, I will discussthe major advantages of deep learning methods in computer vision applications by focusing on Convolutional Neural Networks and recent works, including our latest research 'FlowNet: Learning Optical Flow with Convolutional Networks'."
+  description: "Classification and detection are still major problems in computer vision and waiting to be addressed. Recent studies in deep learning show an outstanding performance in these tasks. Deep learning methods are representation learning methods which allow a machine to learn the representations of data with multiple levels of abstraction. In this talk, I will discussthe major advantages of deep learning methods in computer vision applications by focusing on Convolutional Neural Networks and recent works, including our latest research 'FlowNet: Learning Optical Flow with Convolutional Networks'."
   subtype: keynote
   speakers: [2]
   language: en
