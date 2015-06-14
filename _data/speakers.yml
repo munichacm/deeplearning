@@ -2,7 +2,7 @@
   id: 1
   name: "Sebastian"
   surname: "Ebert"
-  company: "NLP Chair, LMU"
+  company: "Chair for NLP, LMU"
   title: "PhD Student"
   bio: "Sebastian is a PhD Student at Hinrich Schütze's Lab at Ludwig Maximilian University Munich. His research is about Sentiment Analysis, Deep Learning and Neural Language Models."
   thumbnailUrl: thumbnail.png
@@ -11,7 +11,7 @@
   id: 2
   name: "Caner"
   surname: "Hazırbaş"
-  company: "Computer Vision Chair, TUM"
+  company: "Chair for Computer Vision, TUM"
   title: "PhD Student"
   bio: 'Caner received his Computer Engineering Bachelors Degree at Yildiz Technical University, Istanbul and Informatics Masters Degree at the Technical University, Munich (TU München). During his study, he focused on object recognition and detection in the fields of computer vision and machine learning. He is currently pursuing a Ph.D. at the Computer Vision Group, TU Munich under the supervision of Prof. Dr. Daniel Cremers. He is interested in deep learning, object detection/recognition, semantic scene understanding.'
   thumbnailUrl: CanerHazirbas.jpg
@@ -33,15 +33,15 @@
     - {name: "twitter", link: "https://twitter.com/daviddao_"}
     - {name: "github", link: "https://github.com/daviddao"}
     - {name: "site", link: "http://daviddao.de/"}
-# - 
-#   id: 4
-#   name: "Udhayaraj"
-#   surname: "Sivalingam"
-#   company: "Siemens Healthcare"
-#   title: "M.Sc. Thesis Student"
-#   bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
-#   thumbnailUrl: udhay.png
-#   rockstar: true
+- 
+  id: 4
+  name: "Huang"
+  surname: "Xiao"
+  company: "Chair for IT Security, TUM"
+  title: "PhD Student"
+  bio: "Huang is a PhD Student at the IT Security Chair at TUM. His research includes adversarial learning theory, robust learning, semi-supervised learning, nonparametric learning, and other general machine learning methods."
+  thumbnailUrl: HuangXiao.jpg
+  rockstar: true
 # - 
 #   id: 5
 #   name: "Third"

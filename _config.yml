@@ -74,8 +74,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "40", specialCharacter: "+", info: "attendees", detail: "from industry and academia"}
- - {count: "3", specialCharacter: "+", info: "tables", detail: "of snacks and beer"}
- - {count: "2", specialCharacter: "", info: "rockstar speakers", detail: "from NLP, computer vision and deep learning"}
+ - {count: "2", specialCharacter: "+", info: "tables", detail: "of snacks and beer"}
+ - {count: "3", specialCharacter: "", info: "rockstar speakers", detail: "from NLP, computer vision and deep learning"}
  #- {count: "1", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -83,7 +83,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

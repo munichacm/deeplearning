@@ -32,10 +32,10 @@
   language: en
   complexity: "Beginner" 
 -
-  id: 004
-  title: "Deep Learning Awesomeness"
+  id: 003
+  title: "Machine Learning and IT Security"
   description: "TBA"
   subtype: keynote
-  speakers: [5]
+  speakers: [4]
   language: en
   complexity: "Intermediate"
