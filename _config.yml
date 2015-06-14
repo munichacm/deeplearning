@@ -99,7 +99,7 @@ eventAddressCountry: "Germany"
 eventStartTime: "2015-06-24T18:00"
 eventDoorTime: "17:30"
 eventEndTime: "2015-06-24T20:30"
-eventPlaceCoordinates: "48.262298, 11.669776"
+eventPlaceCoordinates: "48.26264975, 11.66788267"
 mapCenterCoordinates: "48.262298, 11.669776"
 mapMobileCenterCoordinates: "48.262298, 11.669776"
 
@@ -209,8 +209,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "48.262298, 11.669776"
-logisticsMapMobileCenterCoordinates: "48.262298, 11.669776"
+logisticsMapCenterCoordinates: "48.26264975, 11.66788267"
+logisticsMapMobileCenterCoordinates: "48.26264975, 11.66788267"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
