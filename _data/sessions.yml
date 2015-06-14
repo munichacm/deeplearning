@@ -33,9 +33,15 @@
   complexity: "Beginner" 
 -
   id: 003
-  title: "Machine Learning and IT Security"
+  title: "Robust and Adverserial Learning"
   description: "TBA"
   subtype: keynote
   speakers: [4]
   language: en
   complexity: "Intermediate"
+-
+  id: 101
+  title: "Social Evening"
+  language: en
+  service: true
+  description: "Wow, awesome talks! Grab a beer and continue the discussion."
