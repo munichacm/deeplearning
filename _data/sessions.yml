@@ -33,8 +33,8 @@
   complexity: "Beginner" 
 -
   id: 003
-  title: "Robust and Adverserial Learning"
-  description: "TBA"
+  title: "Causative Adversarial Learning"
+  description: "Modern learning systems rely more and more on real-world data, which is booming up in many kinds of applications. A bundle of machine learning algorithms and applications are therefore developed to fit the highly demanding intelligent agents. However,are they really reliable systems? Are the learning algorithms themselves not in a danger of being fooled by their intrinsic algorithmic flaws? In this talk, we share some ideas from the adversarial perspective to spot some of the weakness in the trend ofmachine learning algorithms and introduce a new rising research line in the machine learning community. We kindly expect theawareness of the adversarial side of learning systems and invoke researchers and practitioners’s consideration while they design the learning systems."
   subtype: keynote
   speakers: [4]
   language: en
