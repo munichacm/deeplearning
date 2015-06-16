@@ -16,7 +16,7 @@
   name: "Iris"
   surname: "Shih"
   title: "Public Relations and Advertisement"
-  thumbnailUrl: thumbnail.png
+  thumbnailUrl: iris.jpg
   team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
