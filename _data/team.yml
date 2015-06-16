@@ -36,13 +36,13 @@
   id: 3
   name: "Sebastian"
   surname: "Wilzbach"
-  title: "Room Manager"
+  title: "Design & Room Manager"
   thumbnailUrl: thumbnail.png
   subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mrgreenify"}
     - {name: "github", link: "https://github.com/greenify"}
-    - {name: "site", link: "http://sebi.wilzbach.me/"}
+    - {name: "site", link: "http://seb.wilzba.ch"}
 - 
   id: 4
   name: "Daffiny"
