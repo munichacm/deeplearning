@@ -89,7 +89,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Seminarraum 00.09.022, Informatik Gebäude"
+eventLocationName: "Hörsaal 3, Informatik Gebäude"
 eventLocationLink: "http://tum.de"
 eventStreetAddress: "Boltzmannstraße 3"
 eventAddressLocality: "Munich"
@@ -110,7 +110,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Campus Garching"
-venueFeatures: ["2 huge slides!", "Free beer and snacks", "A lot of space"]
+venueFeatures: ["2 huge slides!", "Free beer and sandwiches", "A lot of space"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
