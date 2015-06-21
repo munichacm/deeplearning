@@ -15,9 +15,9 @@
   id: 1
   name: "Iris"
   surname: "Shih"
-  title: "Public Relations and Advertisement"
+  title: "Registration"
   thumbnailUrl: iris.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
     - {name: "twitter", link: "https://twitter.com/iriscshih"}
@@ -27,7 +27,7 @@
   id: 2
   name: "Habtom"
   surname: "Kahsay Gidey"
-  title: "Event Manager"
+  title: "Events"
   thumbnailUrl: habtom.png
   subTeam: true
   social: 
@@ -36,9 +36,9 @@
   id: 3
   name: "Sebastian"
   surname: "Wilzbach"
-  title: "Room Manager"
+  title: "Sponsors & Public Relations"
   thumbnailUrl: thumbnail.png
-  subTeam: true
+  team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/mrgreenify"}
     - {name: "github", link: "https://github.com/greenify"}
@@ -48,5 +48,5 @@
   name: "Daffiny"
   surname: "Lin"
   thumbnailUrl: daffiny.jpg
-  title: "Catering Manager"
+  title: "Student Helper"
   subTeam: true
