@@ -1,7 +1,8 @@
 - 
-  group: "Gold Sponsor"
+  group: "Sponsors"
   elements: 
     - {name: "TrustYou", description: "TrustYou", link: "http://www.trustyou.com/?lang=de", imageUrl: "trustyou.png"}
+    - {name: "TNG", description: "TNG", link: "http://www.tngtech.com/", imageUrl: "tng.png"}
 #     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 # - 
 #   group: "With support of"
