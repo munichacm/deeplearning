@@ -15,9 +15,9 @@
   id: 1
   name: "Iris"
   surname: "Shih"
-  title: "Registration"
+  title: "Strategy & Catering"
   thumbnailUrl: iris.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
     - {name: "twitter", link: "https://twitter.com/iriscshih"}
@@ -48,5 +48,5 @@
   name: "Daffiny"
   surname: "Lin"
   thumbnailUrl: daffiny.jpg
-  title: "Student Helper"
+  title: "Catering"
   subTeam: true
