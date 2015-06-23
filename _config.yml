@@ -73,8 +73,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "40", specialCharacter: "+", info: "attendees", detail: "from industry and academia"}
- - {count: "2", specialCharacter: "+", info: "tables", detail: "of snacks and beer"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from industry and academia"}
+ - {count: "5", specialCharacter: "+", info: "tables", detail: "of snacks, pizza and beer"}
  - {count: "3", specialCharacter: "", info: "rockstar speakers", detail: "from NLP, computer vision and deep learning"}
  #- {count: "1", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
