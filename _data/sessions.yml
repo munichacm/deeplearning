@@ -23,6 +23,9 @@
   speakers: [1]
   language: en
   complexity: "Beginner"
+  video: "https://www.youtube.com/embed/NA8hrmmHsCM"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/qfsY06b35Kb4i9"
+
 -
   id: 002
   title: "Deep Learning in Computer Vision"
@@ -31,6 +34,8 @@
   speakers: [2]
   language: en
   complexity: "Beginner" 
+  video: "https://www.youtube.com/embed/6hIUFklI28I"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/o6j8mkmfmFrQyE"
 -
   id: 003
   title: "Causative Adversarial Learning"
@@ -39,6 +44,8 @@
   speakers: [4]
   language: en
   complexity: "Intermediate"
+  video: "https://www.youtube.com/embed/3Dw-8ETS4SM"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/6Uc9KmqsmGCJan"
 -
   id: 101
   title: "Social Evening"
