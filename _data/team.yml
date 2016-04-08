@@ -3,7 +3,7 @@
   id: 0
   name: "David"
   surname: "Dao"
-  title: "Group Leader"
+  title: "Leader"
   thumbnailUrl: david.png
   team: true
   social: 
@@ -15,8 +15,8 @@
   id: 1
   name: "Iris"
   surname: "Shih"
-  title: "Public Relations and Advertisement"
-  thumbnailUrl: iris.png
+  title: "Co-Leader"
+  thumbnailUrl: iris.jpg
   team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/117315102812355725652"}
@@ -24,29 +24,51 @@
     - {name: "github", link: "https://github.com/iriscshih"}
     - {name: "site", link: "http://iriscshih.com/"}
 - 
-  id: 2
-  name: "Habtom"
-  surname: "Kahsay Gidey"
-  title: "Event Manager"
-  thumbnailUrl: habtom.png
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/112571245243579528650"}
-- 
   id: 3
-  name: "Sebastian"
-  surname: "Wilzbach"
-  title: "Room Manager"
-  thumbnailUrl: seb.png
+  name: "Frederik"
+  surname: "Diehl"
+  title: "Media"
+  thumbnailUrl: thumbnail.png
   subTeam: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/mrgreenify"}
-    - {name: "github", link: "https://github.com/greenify"}
-    - {name: "site", link: "http://sebi.wilzbach.me/"}
 - 
   id: 4
   name: "Daffiny"
   surname: "Lin"
-  title: "Catering Manager"
-  thumbnailUrl: daffiny.png
+  thumbnailUrl: daffiny.jpg
+  title: "Catering"
+  subTeam: true
+- 
+  id: 5
+  name: "Diana"
+  surname: "Papyan"
+  title: "Speakers"
+  thumbnailUrl: thumbnail.png
+  subTeam: true
+- 
+  id: 6
+  name: "Eileen"
+  surname: "Zhang"
+  title: "Location"
+  thumbnailUrl: thumbnail.png
+  subTeam: true
+- 
+  id: 7
+  name: "Hesam"
+  surname: "Rabeti"
+  title: "Speakers & Media"
+  thumbnailUrl: thumbnail.png
+  subTeam: true
+- 
+  id: 8
+  name: "Homa"
+  surname: "Rasouli"
+  title: "Event Manager"
+  thumbnailUrl: thumbnail.png
+  subTeam: true
+- 
+  id: 9
+  name: "Uwe"
+  surname: "Stoll"
+  title: "Sponsoring"
+  thumbnailUrl: thumbnail.png
   subTeam: true

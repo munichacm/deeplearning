@@ -1,7 +1,10 @@
-# - 
-#   group: "General sponsor"
-#   elements: 
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "Sponsors"
+  elements: 
+    - {name: "TrustYou", description: "TrustYou", link: "http://www.trustyou.com/?lang=de", imageUrl: "trustyou.png"}
+    - {name: "TNG", description: "TNG", link: "http://www.tngtech.com/", imageUrl: "tng.png"}
+    - {name: "Nvidia", description: "Nvidia", link: "http://www.nvidia.de/page/home.html", imageUrl: "nvidia.png"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.png"}
 #     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 # - 
 #   group: "With support of"

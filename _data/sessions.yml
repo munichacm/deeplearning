@@ -9,41 +9,56 @@
   title: "Arrival & Get-together"
   language: en
   service: true
-  description: "Grab some coffee and food and get excited"
+  description: "Grab some beer and food and get excited"
 -
   id: 000
-  title: "Welcome to Deep Learning in Action"
+  title: "Welcome to Deep Learning in Action, 3rd Edition"
   language: en
-  speakers: [3]
--
-  id: 001
-  title: "Deep Learning in Natural Language Processing"
-  description: "Natural Language Processing (NLP) is an important part of many real world applications used by most people in our society today. Most prominent examples are automatic machine translation, search engines, or speech recognition. In this talk I will give a short overview over existing NLP applications and the challenges they still face. Following that, I will show the application of deep learning techniques to two important NLP tasks: language modelling and sentiment analysis."
-  subtype: keynote
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
--
-  id: 002
-  title: "Deep Learning in Computer Vision"
-  description: "TBA"
-  subtype: keynote
-  speakers: [2]
-  language: en
-  complexity: "Intermediate" 
+  description: "Welcome to our 3rd Edition. Introduction of Schedule and Sponsors."
+  speakers: [3,2]
 -
   id: 003
-  title: "Generating Game of Thrones: How a RNN learns to write like George R. R. Martin"
-  description: "George, enough is enough! We are already waiting too long for the your next book. Therefore we used your 'A Song of Ice and Fire' books to teach a LSTM how to write like George R. R. Martin. In this session, we will introduce our approach and share some interesting results. Careful: Spoiler Alert!"
-  subtype: presentation
-  speakers: [3,4]
+  title: "Roboy Student Club"
+  language: en
+  description: "Introduction of the Roboy Student Club"
+  speakers: [4]
+-
+  id: 001
+  title: "How to Learn an Algorithm"
+  description: "Our general problem solvers search the space of algorithms running on general purpose computers with internal memory. Architectures include traditional computers, Turing machines, recurrent neural networks, fast weight networks, stack machines, and others. Some of our algorithm searchers are asymptotically time-optimal. Some are self-referential and can even learn the learning algorithm itself (recursive self-improvement). Some reinforcement-learn without a teacher to solve very deep algorithmic problems involving billions of steps. And algorithms learned by our Long Short-Term Memory recurrent networks defined the state-of-the-art in handwriting recognition, speech recognition, natural language processing, machine translation, image caption generation, etc. Google and others made them available to a billion users."
+  subtype: keynote
+  language: en
+  complexity: "Beginner"
+  speakers: [1]
+  video: "https://www.youtube.com/embed/mF5-tr7qAF4"
+-
+  id: 011
+  title: "Deep Learning in Future Industry"
+  description: "Prof. Dr. Volker Tresp, one of Siemens’ top machine learning authorities and a computer science professor at Ludwig Maximillian University in Munich will give an introductory talk about the Impact of Deep Learning Technologies in Future Industry."
+  subtype: keynote
+  language: en
+  complexity: "Beginner"
+  speakers: [5]
+  video: "https://www.youtube.com/embed/ih7upecBtKY"
+-
+  id: 002
+  title: "Conversation Speakers & ACM Student Group"
+  description: "Deep Learning and the Future. A Conversation with the ACM Student Chapter and Prof. Dr. Jürgen Schmidhuber and Prof. Dr. Volker Tresp"
+  subtype: keynote
+  speakers: [1,5,3]
   language: en
   complexity: "Beginner" 
+  # video: "https://www.youtube.com/embed/6hIUFklI28I"
+  # presentation: "https://www.slideshare.net/slideshow/embed_code/key/o6j8mkmfmFrQyE"
 -
-  id: 004
-  title: "Deep Learning Awesomeness"
-  description: "TBA"
-  subtype: keynote
-  speakers: [5]
+  id: 101
+  title: "Social Evening"
   language: en
-  complexity: "Intermediate"
+  service: true
+  description: "Wow, awesome talks! Grab a beer, check out cool stuff and (maybe) find a job"
+- 
+  id: 999
+  title: "Demo Session"
+  language: en
+  service: true
+  description: "Our Sponsors will be available for a chat and present their company and awesome projects. Don't miss it"

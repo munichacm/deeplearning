@@ -1,10 +1,11 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "IEEE/ACM Munich Student Club", description: "IEEE and ACM Computer Science Student Club in Munich", link: "http://munichacm.de", imageUrl: "gdg-lviv.svg"}
-# - 
-#   group: "Co-organizers"
-#   elements: 
-#     - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-#     - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-#     - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "IEEE/ACM Munich Student Club", description: "IEEE and ACM Computer Science Student Club in Munich", link: "http://munichacm.de", imageUrl: "munichacm.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    #- {name: "Rostlab", description: "Rostlab", link: "https://rostlab.org/", imageUrl: "rostlab.png"}
+    #- {name: "Stylight", description: "Stylight", link: "http://www.stylight.de/", imageUrl: "stylight.png"}
+    - {name: "Computer Vision Group TUM", description: "Computer Vision Group", link: "http://vision.in.tum.de/", imageUrl: "vision.png"}
+    - {name: "Deep Learning Munich", description: "Deep Learning Meetup Group in Munich", link: "http://meetup.com/deeplearning", imageUrl: "meetup.png"}

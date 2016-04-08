@@ -142,6 +142,29 @@ layout: compress
         </script>
     {% endif %}
 
+
+    {% if site.addThisEvent %}
+	<!-- AddThisEvent -->
+	<script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
+	<!-- AddThisEvent theme css -->
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/addthisevent.theme6/css/addthisevent.theme6.css" type="text/css" media="screen" />
+	<!-- AddThisEvent Settings -->
+	<script type="text/javascript">
+	addthisevent.settings({
+	    mouse      : false,
+	    css        : false,
+	    outlook    : {show:true, text:"Outlook Calendar"},
+	    google     : {show:true, text:"Google Calendar"},
+	    yahoo      : {show:true, text:"Yahoo Calendar"},
+	    outlookcom : {show:true, text:"Outlook.com"},
+	    appleical  : {show:true, text:"Apple iCalendar"},
+	    facebook   : {show:true, text:"Facebook Event"},
+	    dropdown   : {order:"google,outlook,appleical,yahoo"},
+	    callback   : ""
+	});
+	</script>
+    {% endif %}
+
     {% include schema-event.html %}
 </body>
 

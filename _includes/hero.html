@@ -7,6 +7,24 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <p>{{ site.eventDate }}</p>
+
+<!-- <div title="Add to Calendar" class="addthisevent">
+    Add to Calendar
+    <span class="start">08/05/2015 17:15</span>
+    <span class="end">08/05/2015 21:00</span>
+    <span class="timezone">Europe/Berlin</span>
+    <span class="title">Deep Learning in Action</span>
+    <span class="description">Deep Learning in Action is a Speaker Series from TUM Students for TUM Students.
+    See more at http://munichacm.de/deeplearning/</span>
+    <span class="location">TrustYou GmbH</span>
+    <span class="organizer">CS Student Club Munich</span>
+    <span class="organizer_email">munichacm@gmail.com</span>
+    <span class="all_day_event">false</span>
+    <span class="date_format">MM/DD/YYYY</span>
+</div> -->
+            
+            <a href="http://www.meetup.com/de/deeplearning/events/225423302/?eventId=225423302" class="btn btn-primary waves-effect waves-button waves-light waves-float">Save your seat!</a>
+
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}

@@ -1,33 +1,37 @@
 - 
   id: 1
-  name: "Sebastian"
-  surname: "Ebert"
-  company: "NLP Chair, LMU"
-  title: "PhD Student"
-  bio: "Sebastian is a PhD Student at Hinrich Schütze's Lab at Ludwig Maximilian University Munich. His research is about Sentiment Analysis, Deep Learning and Neural Language Models."
-  thumbnailUrl: SebastianEbert.jpg
+  name: "Prof. Dr. Jürgen"
+  surname: "Schmidhuber"
+  company: "IDSIA"
+  title: "Deep Learning Pioneer"
+  bio: "Since age 15 or so, Prof. Jürgen Schmidhuber's main scientific ambition has been to build a self-improving Artificial Intelligence (AI) smarter than himself, then retire. He has pioneered self-improving general problem solvers since 1987, and Deep Learning Neural Networks (NNs) since 1991. The recurrent NNs (RNNs) developed by his research groups at the Swiss AI Lab IDSIA & USI & SUPSI and TU Munich were the first RNNs to win official international contests. They have revolutionised connected handwriting recognition, speech recognition, machine translation, optical character recognition, image caption generation, and are now in use at Google, Microsoft, IBM, Baidu, and many other companies. The first 4 members of DeepMind (sold to Google for over 600M) include 2 former PhD students from his lab. His team's Deep Learners were also the first to win object detection and image segmentation contests, and achieved the world's first superhuman visual classification results, winning nine international competitions in machine learning & pattern recognition (more than any other team). They also were the first to learn control policies directly from high-dimensional sensory input using reinforcement learning. His research group also established the field of mathematically rigorous universal AI and optimal universal problem solvers. His formal theory of creativity & curiosity & fun explains art, science, music, and humor. He also generalized algorithmic information theory and the many-worlds theory of physics, and introduced the concept of Low-Complexity Art, the information age's extreme form of minimal art. Since 2009 he has been member of the European Academy of Sciences and Arts. He has published 333 peer-reviewed papers, earned seven best paper/best video awards, the 2013 Helmholtz Award of the International Neural Networks Society, and the 2016 IEEE Neural Networks Pioneer Award. He is president of NNAISENSE, which aims at building the first practical general purpose AI."
+  thumbnailUrl: Schmidhuber.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Neural Networks Pioneer", title: "IEEE Neural Networks Award Pioneer 2016", url: "http://cis.ieee.org/award-recipients.html#NeuralNetworksPioneerAward"}
 - 
   id: 2
-  name: "Caner"
-  surname: "Hazırbaş"
-  company: "Computer Vision Chair, TUM"
-  title: "PhD Student"
-  bio: 'Caner received his Computer Engineering Bachelors Degree at Yildiz Technical University, Istanbul and Informatics Masters Degree at the Technical University, Munich (TU München). During his study, he focused on object recognition and detection in the fields of computer vision and machine learning. He is currently pursuing a Ph.D. at the Computer Vision Group, TU Munich under the supervision of Prof. Dr. Daniel Cremers. He is interested in deep learning, object detection/recognition, semantic scene understanding.'
-  thumbnailUrl: CanerHazirbas.jpg
-  rockstar: true
+  name: "Iris"
+  surname: "Shih"
+  company: "Technical University of Munich"
+  title: "Computer Scientist"
+  bio: "Iris is a Second Year M.Sc. Student at TUM doing her thesis on computer vision in medicine. She holds a B.Sc with highest distinction from Taiwan and is addicted to GitHub commits and Netflix series."
+  thumbnailUrl: iris.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "IEEE", title: "IEEE Computer Society", url: "http://www.computer.org/web/guest"}
 - 
   id: 3
   name: "David"
   surname: "Dao"
-  company: "Exelixis Lab, HITS"
-  title: "Graduate Student Researcher"
-  bio: "David is a M.Sc. Student at TUM and a Graduate Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern on high-energy particle simulations at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
+  company: "Broad Institute of MIT and Harvard"
+  title: "Graduate Researcher"
+  bio: "David is a M.Sc. Student at TUM and a student researcher in machine learning. Before his studies, David worked as intern at CERN. For his thesis he works on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
   thumbnailUrl: david.png
-  rockstar: true
+  rockstar: false
   ribbon: 
-    - {abbr: "ACM", title: "ACM member", url: "https://developers.google.com/experts/"}
-    - {abbr: "IEEE", title: "IEEE member", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "ACM", title: "ACM", url: "http://germany.acm.org/"}
+    - {abbr: "IEEE", title: "IEEE Computer Society", url: "http://www.computer.org/web/guest"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
     - {name: "twitter", link: "https://twitter.com/daviddao_"}
@@ -35,19 +39,19 @@
     - {name: "site", link: "http://daviddao.de/"}
 - 
   id: 4
-  name: "Udhayaraj"
-  surname: "Sivalingam"
-  company: "Siemens Healthcare"
-  title: "M.Sc. Thesis Student"
-  bio: "Udhayaraj is a M.Sc. Student at TUM and winner of the DAAD-Prize for outstanding achievements. He holds a Bachelor of Engineering from India and is fascinated with deep learning and computer vision. He worked as a Data Scientist in Munich and is currently doing his thesis in machine learning at Siemens Healthcare."
-  thumbnailUrl: udhay.png
+  name: ""
+  surname: "Roboy"
+  company: "Roboy Student Club"
+  title: "Full-time Robot"
+  bio: "The 3D printed robot boy plays in a theatre, goes to school and fascinates the audience with his unique story."
+  thumbnailUrl: roboy.jpg
   rockstar: true
 - 
   id: 5
-  name: "Third"
-  surname: "Speaker"
-  company: "from awesome"
-  title: "genius"
-  bio: "Awesome guy"
-  thumbnailUrl: ThirdSpeaker.jpg
+  name: "Prof. Dr. Volker"
+  surname: "Tresp"
+  company: "Siemens"
+  title: "Principal Research Scientist"
+  bio: "Volker Tresp received a Diploma degree from the University of Goettingen, Germany, in 1984 and the M.Sc. and Ph.D. degrees from Yale University, New Haven, CT, in 1986 and 1989 respectively. Since 1989 he is the head of various research teams in machine learning at Siemens, Research and Technology.  He filed more than 70 patent applications and was inventor of the year of Siemens in 1996. He has published more than 100 scientific articles and administered over 20 Ph.D. theses. The company Panoratio is a spin-off out of his team.  His research focus in recent years has been „Machine Learning in Information Networks“ for modelling Knowledge Graphs, medical decision processes and sensor networks. He is the coordinator of one of the first nationally funded Big Data projects for the realization of „Precision Medicine“.   In 2011 he became aHonorarprofessor at the Ludwig Maximilian University of Munich where he teaches an annual course on Machine Learning."
   rockstar: true
+  thumbnailUrl: tresp.jpg
